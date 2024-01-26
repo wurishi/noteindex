@@ -309,15 +309,15 @@ SVG 路径动画
 
 词云
 
-# xstate
+# [xstate](https://github.com/wurishi/xstate)
 
 参考资料: [XState](https://blog.jerry-hong.com/posts/xstate-introduction/) (03/?? 暂停)
 
-# zrender
-
-[link](https://github.com/wurishi/zrender)
+# [zrender](https://github.com/wurishi/zrender)
 
 参考资料: [ZRender 官网 Examples](https://ecomfe.github.io/zrender-doc/public/examples.html) **(完成)**
+
+-----------------------------------------
 
 https://turtletoy.net/turtle/90a99d3469#AMOUNT=0.2
 
