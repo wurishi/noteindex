@@ -271,21 +271,21 @@ U3D JobSystem
 
 # unityshaderstudy
 
-# vertexshader
+# [vertexshader](https://github.com/wurishi/vertexshader)
 
 [参考资料](https://github.com/greggman/vertexshaderart)
 
-# vertexshaderart
+# [vertexshaderart](https://github.com/wurishi/vertexshaderart)
 
 [参考资料](https://www.vertexshaderart.com/) (*建议使用vertexshader*)
 
-# vite
+# [vite](https://github.com/wurishi/vite)
 
 参考资料: [Vite 官方中文文档](https://cn.vitejs.dev/) **(完成)**
 
 API 部分
 
-# vivus
+# [vivus](https://github.com/wurishi/vivus)
 
 SVG 路径动画
 
