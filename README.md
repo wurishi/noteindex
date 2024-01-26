@@ -291,13 +291,13 @@ SVG 路径动画
 
 参考资料: [vivus](https://github.com/maxwellito/vivus#vivusjs) **(完成)**
 
-# vue3
+# [vue3](https://github.com/wurishi/vue3)
 
 [参考资料](https://www.vue3js.cn/docs/zh/guide/installation.html)
 
 [组合式 API](https://composition-api.vuejs.org/zh/api.html#setup) **(完成)**
 
-# webpack
+# [webpack](https://github.com/wurishi/webpack)
 
 - 指南: [webpack 指南](https://www.webpackjs.com/guides/installation/)  **(完成)**
 - 概念: [webpack 概念](https://www.webpackjs.com/concepts/) **(完成)**
@@ -305,7 +305,7 @@ SVG 路径动画
 - API: [webpack API](https://www.webpackjs.com/api/)
 - 怎样编写 loader: [webpack 参与贡献](https://www.webpackjs.com/contribute/) 
 
-# wordcloud
+# [wordcloud](https://github.com/wurishi/wordcloud)
 
 词云
 
