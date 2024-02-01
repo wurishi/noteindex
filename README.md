@@ -207,7 +207,7 @@ https://shadertoyunofficial.wordpress.com/
 
 参考网站: [腾讯云社区](https://cloud.tencent.com/developer/section/1423860) **(完成)**
 
-# tensorflowjs
+# [tensorflowjs](https://github.com/wurishi/tensorflowjs/blob/main/note.md)
 
 参考资料: [TensorFlow For JavaScript](https://tensorflow.google.cn/js/tutorials/setup?hl=zh-cn) **(完成)**
 
@@ -217,19 +217,19 @@ https://shadertoyunofficial.wordpress.com/
 
 [Magenta](https://magenta.tensorflow.org/get-started/)
 
-# testdemo
+# [testdemo](https://github.com/wurishi/testdemo/blob/main/note.md)
 
 跨 Tab Demo (BroadcastChannel/SharedWorker/LocalStorage) **(完成)**
 
-# thebookofshaders
+# [thebookofshaders](https://github.com/wurishi/thebookofshaders/blob/main/note.md)
 
 参考资料: [The Book of Shaders](https://thebookofshaders.com/) (进行中, 原书资源暂时到15章，且并不完整20220126)
 
-# thinkinfp
+# [thinkinfp](https://github.com/wurishi/thinkinfp/blob/main/note.md)
 
 参考资料: [Think in FP](https://blog.jerry-hong.com/series/fp/) (05/?? 暂停)
 
-# threejs
+# [threejs](https://github.com/wurishi/threejs/blob/main/note.md)
 
 - doc: [three.js 中文](http://www.webgl3d.cn/threejs/docs/index.html) **(完成)**
 - webgl: [WebGL 入门教程](http://www.yanhuangxueyuan.com/WebGL/) **(完成)**
@@ -239,11 +239,13 @@ https://shadertoyunofficial.wordpress.com/
 - fundamentals: [fundamentals](https://threejsfundamentals.org/threejs/lessons/zh_cn/) (*进行中*)
 - webgl - webglfundamentals: [webglfundamentals](https://webglfundamentals.org/webgl/lessons/zh_cn/)
 
-# typechallenges
+# [threejsexample](https://github.com/wurishi/threejsexample/blob/main/note.md)
+
+# [typechallenges](https://github.com/wurishi/typechallenges/blob/main/note.md)
 
 参考资料：[type-challenges](https://github.com/type-challenges/type-challenges/blob/main/README.zh-CN.md)
 
-# typescripttips
+# [typescripttips](https://github.com/wurishi/typescripttips/blob/main/note.md)
 
 TS小技巧 **(完成)**
 
@@ -255,7 +257,7 @@ TS小技巧 **(完成)**
 
 U3D JobSystem
 
-# unity1
+# [unity1](https://github.com/wurishi/unity1/blob/main/note.md)
 
 参考资料: [Unity 系列教程](https://www.yuque.com/henjihenguanjian/technicalarticles/dsoxgs) _(进行中 1/18)_
 
@@ -263,41 +265,41 @@ U3D JobSystem
 
 包括 Unity Isometric, Unity 2D, Unity 2D 灯光 的一些笔记 **(完成)**
 
-# [unitye](https://github.com/wurishi/unitye)
+# [unitye](https://github.com/wurishi/unitye/blob/main/note.md)
 
-# [unityecs](https://github.com/wurishi/unityecs)
+# [unityecs](https://github.com/wurishi/unityecs/blob/main/note.md)
 
 参考资料: [Unity3D Entity Component System 入门学习](https://blog.csdn.net/u012632851/category_7034956.html) **(完成)**
 
-# [unityshaderstudy](https://github.com/wurishi/unityshaderstudy)
+# [unityshaderstudy](https://github.com/wurishi/unityshaderstudy/blob/main/note.md)
 
-# [vertexshader](https://github.com/wurishi/vertexshader)
+# [vertexshader](https://github.com/wurishi/vertexshader/blob/main/note.md)
 
 [参考资料](https://github.com/greggman/vertexshaderart)
 
-# [vertexshaderart](https://github.com/wurishi/vertexshaderart)
+# [vertexshaderart](https://github.com/wurishi/vertexshaderart/blob/main/note.md)
 
 [参考资料](https://www.vertexshaderart.com/) (*建议使用vertexshader*)
 
-# [vite](https://github.com/wurishi/vite)
+# [vite](https://github.com/wurishi/vite/blob/main/note.md)
 
 参考资料: [Vite 官方中文文档](https://cn.vitejs.dev/) **(完成)**
 
 API 部分
 
-# [vivus](https://github.com/wurishi/vivus)
+# [vivus](https://github.com/wurishi/vivus/blob/main/note.md)
 
 SVG 路径动画
 
 参考资料: [vivus](https://github.com/maxwellito/vivus#vivusjs) **(完成)**
 
-# [vue3](https://github.com/wurishi/vue3)
+# [vue3](https://github.com/wurishi/vue3/blob/main/note.md)
 
 [参考资料](https://www.vue3js.cn/docs/zh/guide/installation.html)
 
 [组合式 API](https://composition-api.vuejs.org/zh/api.html#setup) **(完成)**
 
-# [webpack](https://github.com/wurishi/webpack)
+# [webpack](https://github.com/wurishi/webpack/blob/main/note.md)
 
 - 指南: [webpack 指南](https://www.webpackjs.com/guides/installation/)  **(完成)**
 - 概念: [webpack 概念](https://www.webpackjs.com/concepts/) **(完成)**
@@ -305,15 +307,15 @@ SVG 路径动画
 - API: [webpack API](https://www.webpackjs.com/api/)
 - 怎样编写 loader: [webpack 参与贡献](https://www.webpackjs.com/contribute/) 
 
-# [wordcloud](https://github.com/wurishi/wordcloud)
+# [wordcloud](https://github.com/wurishi/wordcloud/blob/main/note.md)
 
 词云
 
-# [xstate](https://github.com/wurishi/xstate)
+# [xstate](https://github.com/wurishi/xstate/blob/main/note.md)
 
 参考资料: [XState](https://blog.jerry-hong.com/posts/xstate-introduction/) (03/?? 暂停)
 
-# [zrender](https://github.com/wurishi/zrender)
+# [zrender](https://github.com/wurishi/zrender/blob/main/note.md)
 
 参考资料: [ZRender 官网 Examples](https://ecomfe.github.io/zrender-doc/public/examples.html) **(完成)**
 
