@@ -273,6 +273,10 @@ U3D JobSystem
 
 参考资料: [Unity3D Entity Component System 入门学习](https://blog.csdn.net/u012632851/category_7034956.html) **(完成)**
 
+# [unitygameshader](https://github.com/wurishi/unitygameshader/blob/main/note.md)
+
+参考资料: 视频教程
+
 # [unityshaderstudy](https://github.com/wurishi/unityshaderstudy/blob/main/note.md)
 
 # [vertexshader](https://github.com/wurishi/vertexshader/blob/main/note.md)
