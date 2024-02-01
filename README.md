@@ -207,6 +207,8 @@ https://shadertoyunofficial.wordpress.com/
 
 参考网站: [腾讯云社区](https://cloud.tencent.com/developer/section/1423860) **(完成)**
 
+# [tailwindcss](https://github.com/wurishi/tailwindcss)
+
 # [tensorflowjs](https://github.com/wurishi/tensorflowjs/blob/main/note.md)
 
 参考资料: [TensorFlow For JavaScript](https://tensorflow.google.cn/js/tutorials/setup?hl=zh-cn) **(完成)**
