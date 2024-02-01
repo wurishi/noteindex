@@ -259,7 +259,7 @@ U3D JobSystem
 
 参考资料: [Unity 系列教程](https://www.yuque.com/henjihenguanjian/technicalarticles/dsoxgs) _(进行中 1/18)_
 
-# [unity2d](https://github.com/wurishi/unity2d/note.md)
+# [unity2d](https://github.com/wurishi/unity2d/blob/main/note.md)
 
 包括 Unity Isometric, Unity 2D, Unity 2D 灯光 的一些笔记 **(完成)**
 
