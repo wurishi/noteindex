@@ -194,16 +194,16 @@ stable diffusion
 
 https://shadertoyunofficial.wordpress.com/
 
-# shadertoygraph
+# [shadertoygraph](https://github.com/wurishi/shadertoygraph)
 重构 shadertoy 的渲染代码（极大部分的多 buffer 可以正常显示了），通过官方扩展下载的 json 文件可以通过工具生成对应的配置。
 
 目前改成直接转换官网下载的 json 文件并显示，减少中间商 -.-
 
-# sveltejs
+# [sveltejs](https://github.com/wurishi/sveltejs/blob/main/note.md)
 
 参考网站: [sveltejs](https://www.sveltejs.cn/) **(完成)**
 
-# svg
+# [svg](https://github.com/wurishi/svg/blob/main/note.md)
 
 参考网站: [腾讯云社区](https://cloud.tencent.com/developer/section/1423860) **(完成)**
 
