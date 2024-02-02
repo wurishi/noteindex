@@ -86,7 +86,7 @@ electron
 # jquery
 [参考资料](https://learn.jquery.com/about-jquery/)
 
-# jsgenerator
+# [jsgenerator](https://github.com/wurishi/jsgenerator/blob/main/note.md)
 
 参考资料:
 
@@ -95,27 +95,27 @@ electron
 - [深入 ES6 generators](https://2ality.com/2015/03/es6-generators.html) **(完成)**
 - [3 cases where JavaScript generators rock](https://goshakkk.name/javascript-generators-understanding-sample-use-cases/) **(完成)**
 
-# learnu3d
+# [learnu3d](https://github.com/wurishi/learnu3d)
 
 [unity-raytracing-intro (Unity实时光追系列)](https://learn.u3d.cn/tutorial/unity-raytracing-intro#) **(完成)**
 
-# leetcode
+# [leetcode](https://github.com/wurishi/leetcode/blob/main/note.md)
 
 leetcode
 
 [labuladong的算法小抄](https://labuladong.gitbook.io/algo/)
 
-# litegraph
+# [litegraph](https://github.com/wurishi/litegraph/blob/main/note.md)
 
 litegraph.js
 
 https://github.com/jagenjo/litegraph.js
 
-# ml5
+# [ml5](https://github.com/wurishi/ml5/blob/main/note.md)
 
 [参考资料](https://learn.ml5js.org/#/)
 
-# mobx
+# [mobx](https://github.com/wurishi/mobx/blob/main/note.md)
 
 参考资料: [cn.mobx](https://cn.mobx.js.org/) **(完成)**
 
@@ -123,19 +123,23 @@ https://github.com/jagenjo/litegraph.js
 
 参考资料: [mochajs.cn](https://mochajs.cn/)
 
-# nginx
+# [myecs](https://github.com/wurishi/myecs)
+
+计划实现 SparseSets
+
+# [nginx](https://github.com/wurishi/nginx/blob/main/note.md)
 
 参考资料: [nginx.conf](http://www.ha97.com/5194.html) **(完成)**
 
-# opengl
+# [opengl](https://github.com/wurishi/opengl/blob/main/note.md)
 
 参考资料: [NeHe OpenGL教程](http://www.ieee.org.cn/dispbbs.asp?boardID=61&ID=54065) **(完成)**
 
-# p5js
+# [p5js](https://github.com/wurishi/p5js)
 
 [参考资料](https://p5js.org/zh-Hans/)
 
-# parallax
+# [parallax](https://github.com/wurishi/parallax)
 
 视觉差
 
@@ -145,7 +149,7 @@ https://github.com/jagenjo/litegraph.js
 
 参考资料: [particles.js](https://vincentgarreau.com/particles.js/)
 
-# pixijs
+# [pixijs](https://github.com/wurishi/pixijs)
 
 [参考资料](https://www.pixijs.com/tutorials)
 
@@ -153,25 +157,29 @@ https://github.com/jagenjo/litegraph.js
 
 [LearningPixi](https://github.com/Zainking/learningPixi) **(完成)**
 
-# pythonquantitative
+# [pp](https://github.com/wurishi/pp)
+
+cypress jest 的一些工具方法
+
+# [pythonquantitative](https://github.com/wurishi/pythonquantitative/blob/main/note.md)
 
 # reactconcurrent
 
 concurrent 实验
 
-# reacthook
+# [reacthook](https://github.com/wurishi/reacthook/blob/main/note.md)
 
 参考资料: [React Hook](https://react.docschina.org/docs/hooks-overview.html) **(完成)**
 
-# reactwebpack4cook
+# [reactwebpack4cook](https://github.com/wurishi/reactwebpack4cook/blob/main/note.md)
 
 参考资料: [React-webpack4-cook](https://juejin.im/post/6844903862898262024?utm_source=gold_browser_extension#heading-32) **(完成)**
 
-# reduxsaga
+# [reduxsaga](https://github.com/wurishi/reduxsaga/blob/main/note.md)
 
 参考资料: [Redux-Saga](https://redux-saga-in-chinese.js.org/) **(完成)**
 
-# rollupjs
+# [rollupjs](https://github.com/wurishi/rollupjs/blob/main/note.md)
 
 参考资源: [rollup.js](https://rollupjs.org/guide/zh) **(完成)**
 
@@ -180,15 +188,15 @@ concurrent 实验
 Rust
 https://rust.p2hp.com/learn/
 
-# rxjs30
+# [rxjs30](https://github.com/wurishi/rxjs30/blob/main/note.md)
 
 参考资料: [30 天精通 RxJS](https://blog.jerry-hong.com/series/rxjs/) **(完成)**
 
-# sd
+# [sd](https://github.com/wurishi/sd/blob/main/note.md)
 
 stable diffusion
 
-# shadertoy
+# [shadertoy](https://github.com/wurishi/shadertoy/blob/main/note.md)
 
 参考网站: [shadertoy](https://www.shadertoy.com/) (*进行中*)
 
