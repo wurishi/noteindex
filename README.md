@@ -1,6 +1,6 @@
 proxy port 22226 (testdemo)
 
-# antvg2
+# [antvg2](https://github.com/wurishi/antvg2/blob/main/note.md)
 
 [参考资料](https://antv-g2.gitee.io/zh/docs/manual/about-g2)
 
@@ -10,11 +10,11 @@ proxy port 22226 (testdemo)
 
 [参考资料](https://antv-g6.gitee.io/zh/examples/gallery)
 
-# antvl7
+# [antvl7](https://github.com/wurishi/antvl7/blob/main/note.md)
 
 [参考资料](https://antv-l7.gitee.io/zh/examples/gallery)
 
-# antvx6
+# [antvx6](https://github.com/wurishi/antvx6)
 
 [参考资料](https://antv-x6.gitee.io/en/examples/gallery)
 
@@ -22,7 +22,7 @@ proxy port 22226 (testdemo)
 
 [参考资料](https://github.com/googlecreativelab/anypixel)
 
-# babel
+# [babel](https://github.com/wurishi/babel/blob/main/note.md)
 
 [参考资料](https://www.babeljs.cn/docs/) (完成指南与概览部分)
 
@@ -30,60 +30,66 @@ proxy port 22226 (testdemo)
 
 [参考资料](https://www.babylonjs.com/)
 
-# bfs
+# [bfs](https://github.com/wurishi/bfs/blob/main/note.md)
 
 参考资料: [BFS 算法框架套路详解](https://mp.weixin.qq.com/s/Gse3M1P0OJGZj4OmnidLkA) **(完成)**
 
-# brunch
+# [brunch](https://github.com/wurishi/brunch/blob/main/note.md)
 
 参考资料: [Brunch Quick Start](https://brunch.io/docs/getting-started) **(完成)**
 
-# d3js
+# [d3js](https://github.com/wurishi/d3js/blob/main/note.md)
 
 参考资料: [D3.js 的 v5 版本入门教程](https://blog.csdn.net/qq_34414916/article/details/80026029) _(完成 追加一些 Example)_
 
-# deckgl
+# [d3jsexample](https://github.com/wurishi/d3jsexample/blob/main/note.md)
+
+# [deckgl](https://github.com/wurishi/deckgl)
 
 参考资料: [deck.gl](https://deck.gl/examples) 
 
 # dsbridge
 
-# echarts
+# [echarts](https://github.com/wurishi/echarts/blob/main/note.md)
 
 参考资料: [ECharts 官网 Examples](https://echarts.apache.org/examples/zh/index.html) _(进行中)_
 
-# echartstool
+# [echartstool](https://github.com/wurishi/echartstool)
 
 思路: 类似 echarts example 网站，用一套可视化 UI 代替代码实现编辑功能，并最终提供一个代码输出的功能。ECS / dat.gui (进行中)
 
-# ecsts
+# [ecsts](https://github.com/wurishi/ecsts)
 
 基于 ecs cli (coffee-script) 的 js cli (see lib/jscli)
 
 # electron
 
 electron
-# graphql
+
+# [graphql](https://github.com/wurishi/graphql)
 
 # gulp
 
-# icss
+# [icss](https://github.com/wurishi/icss/blob/main/note.md)
 
 [参考资料](https://github.com/chokcoco/iCSS)
 
-# icss-svelte (基于 icss 重制，使用 vite + svelte 使得能够在 vscode online 上直接运行)
+# [icss-svelte](https://github.com/wurishi/icss-svelte/blob/main/note.md)
+
+基于 icss 重制，使用 vite + svelte 使得能够在 vscode online 上直接运行
 
 [参考资料](https://github.com/chokcoco/iCSS)
 
-# javascriptbook
+# [javascriptbook](https://github.com/wurishi/javascriptbook/blob/main/note.md)
 
 参考资料: 《你所不知道的 Javascript》_(进行中)_
 
-# jest
+# [jest](https://github.com/wurishi/jest/blob/main/note.md)
 
 [参考资料](https://jestjs.io/docs/zh-Hans/getting-started) _(进行中 2/4)_
 
-# jquery
+# [jquery](https://github.com/wurishi/jquery/blob/main/note.md)
+
 [参考资料](https://learn.jquery.com/about-jquery/)
 
 # [jsgenerator](https://github.com/wurishi/jsgenerator/blob/main/note.md)
