@@ -289,7 +289,7 @@ U3D JobSystem
 
 # [unitygameshader](https://github.com/wurishi/unitygameshader/blob/main/note.md)
 
-参考资料: 视频教程
+**(完成)**
 
 # [unityshaderstudy](https://github.com/wurishi/unityshaderstudy/blob/main/note.md)
 
