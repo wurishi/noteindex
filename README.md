@@ -103,7 +103,10 @@ electron
 
 # [learnu3d](https://github.com/wurishi/learnu3d)
 
-[unity-raytracing-intro (Unity实时光追系列)](https://learn.u3d.cn/tutorial/unity-raytracing-intro#) **(完成)**
+- [unity-raytracing-intro (Unity实时光追系列)](https://learn.u3d.cn/tutorial/unity-raytracing-intro#) **(完成)**
+- Unity ECS **(完成)**
+- Unity 玻璃雨滴特效 **(完成)**
+- Unity 毛发效果 **(完成)**
 
 # [leetcode](https://github.com/wurishi/leetcode/blob/main/note.md)
 
