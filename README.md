@@ -66,6 +66,16 @@ proxy port 22226 (testdemo)
 
 electron
 
+# [forcegraph](https://github.com/wurishi/forcegraph)
+
+https://anvaka.github.io/ngraph.forcelayout/?graph=Binary&timeStep=0.5&springLength=10&springCoefficient=0.8&dragCoefficient=0.9&dimensions=2&theta=0.8&gravity=-12
+
+https://github.com/anvaka/ngraph.forcelayout
+
+https://github.com/vasturiano/3d-force-graph
+
+https://github.com/vasturiano/force-graph?tab=readme-ov-file
+
 # [graphql](https://github.com/wurishi/graphql)
 
 # gulp
@@ -262,7 +272,7 @@ https://shadertoyunofficial.wordpress.com/
 
 # [typechallenges](https://github.com/wurishi/typechallenges/blob/main/note.md)
 
-参考资料：[type-challenges](https://github.com/type-challenges/type-challenges/blob/main/README.zh-CN.md)
+参考资料：[type-challenges](https://github.com/type-challenges/type-challenges/blob/main/README.zh-CN.md) **(完成)**
 
 # [typescripttips](https://github.com/wurishi/typescripttips/blob/main/note.md)
 
