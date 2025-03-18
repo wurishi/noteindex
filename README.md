@@ -375,7 +375,7 @@ https://preactjs.com/guide/v10/getting-started
 Graph: WebWorker + D3 handle Layout，Pixi 实现渲染。局部拖动实时响应（readPixels 获得操作周围的点，WebWorker 负责实时计算这些点的 layout）
 
 Shader: LiteGraph 或 Pixi 实现。
-变量定义的节点(const, type, name, value, prev, next)，根据 type，实现 int, float, bool, vec2, vec3, vec4 的操作UI，实时改变值。
+变量定义的节点(const, type, name, value, prev, next)，根据 type，实现 int, float, bool, vec2, vec3, vec4 的操作UI，实时改变值。(是否编译成 uniform，即值是编译到 shader 中，还是由 JS 通过 uniform 传递)
 代码节点(prev, next, code)(点击code 可以框选部分并转换为 input 属性，可以连接变量节点)
 函数节点(prev, next)(函数开始 + 函数结束 分二个节点？)
 理论上这几个节点就足够复现部分 ShaderToy 的效果了。所以还要再次实现一遍 ShaderToy（用 litegl 看看可否实现）
