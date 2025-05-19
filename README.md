@@ -1,5 +1,7 @@
 proxy port 22226 (testdemo)
 
+# [animejs](https://github.com/wurishi/animejs_demo/blob/main/note.md)
+
 # [antvg2](https://github.com/wurishi/antvg2/blob/main/note.md)
 
 [参考资料](https://antv-g2.gitee.io/zh/docs/manual/about-g2)
